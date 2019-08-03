@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../testIcon"
+      name = "testIcon">
+      <FileRef
+         location = "group:/Users/u17495310/Documents/Objective-c/Study/SBPictures/Modules/SecondScreen/DownloadOperation.h">
+      </FileRef>
+      <FileRef
+         location = "group:/Users/u17495310/Documents/Objective-c/Study/SBPictures/Modules/SecondScreen/DownloadOperation.m">
+      </FileRef>
+      <FileRef
+         location = "group:clear.png">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:SBPictures.xcodeproj">
+   </FileRef>
+</Workspace>
